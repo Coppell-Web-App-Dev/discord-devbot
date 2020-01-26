@@ -1,0 +1,22 @@
+{
+  "name": "discord-devbot",
+  "version": "1.0.0",
+  "description": "Helper bot for developers in web & app development club.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coppell-Web-App-Dev/discord-devbot.git"
+  },
+  "author": "RAE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coppell-Web-App-Dev/discord-devbot/issues"
+  },
+  "homepage": "https://github.com/Coppell-Web-App-Dev/discord-devbot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
